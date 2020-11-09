@@ -17,3 +17,5 @@
 - Enviar una notificación del tiempo límite que diste para cierta tarea
 
 - Intentar un chat a travez de un websocket
+
+- Generar gráficos con chartJS
